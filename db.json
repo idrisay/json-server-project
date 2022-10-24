@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "json-server 2",
+      "author": "typicode"
+    },
+    {
+      "id": 1,
+      "title": "test",
+      "author": "idris"
+    },
+    {
+      "title": "study js",
+      "author": "idris",
+      "id": 4
+    },
+    {
+      "title": "study js",
+      "author": "idris",
+      "id": 5
+    },
+    {
+      "title": "study js",
+      "author": "idris",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
